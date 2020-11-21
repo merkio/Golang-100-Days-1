@@ -46,8 +46,8 @@ Representative projects: Ethereum, hyperledger, etc.
 -All experience comes from mistakes.
 -Don't be one of the leeches.
 -Either stand out or kicked out.
-### Day01~15-[Go language basics](./Day01-15(Go language basics))
-#### Day01-[First Understanding of Go Language](./Day01-15(Basics of Go Language)/day01_Section 8_The first program HelloWorld.md)
+### Day01~15-[Go Language Fundamentals](./Day01-15(Go Language Fundamentals))
+#### Day01-[First Understanding of Go Language](./Day01-15(Go Language Fundamentals)/day01_Section 8_The first program HelloWorld.md)
 -Introduction to Go Language-History of Go Language / Core Features of Go Language / Logo Version of Go Language / Application Fields of Go
 -Go language environment construction-Windows system / Linux system / MacOS system
 -HelloWorld program-Go language file structure format / fmt package / Print function
@@ -67,12 +67,12 @@ Representative projects: Ethereum, hyperledger, etc.
 -Keyboard input and print output-Scanln() / Scanf() / Print() / Printf() / Println()
 -Format placeholders-%v / %T / %t / %s / %f /% d / %p / %c. . .
 
-#### Day04-[Branch Statement](./Day01-15(Go Language Basics)/day04_Branch Statement.md)
+#### Day04-[Branch Statement](./Day01-15(Go Language Fundamentals)/day04_Branch Statement.md)
 -Application scenarios of branch structure-Condition / structure / code block / flow chart
 -if statement-simple if / if-else structure / if-elif-else structure / nested if / other ways of writing
 -switch statement-switch structure / case statement / break statement / fallthrough statement / other ways of writing switch
 
-#### Day05-[Loop Statement](./Day01-15(Go Language Basics)/day05_Loop Statement.md)
+#### Day05-[Loop Statement](./Day01-15(Go Language Fundamentals)/day05_Loop Statement.md)
 -Application scenarios of cyclic structure-Condition / structure / code block / flow chart
 -for loop-basic structure / branch structure in loop / nested loop / other wording of for
 -Loop control statement-break / continue
@@ -80,30 +80,30 @@ Representative projects: Ethereum, hyperledger, etc.
 -Random number generation-Random number generation
 -Application case-1~100 summation / judging prime numbers / guessing the number game / printing the ninety-nine table / printing the triangle pattern / the number of daffodils / hundred money and hundred chickens
 
-#### Day06-[Array](./Day01-15(Basics of Go Language)/day06_Array.md)
+#### Day06-[Array](./Day01-15(Go Language Fundamentals)/day06_Array.md)
 -Array-Array Concept / Use of Array / Syntax of Array / Length of Array / Points to Note for Array
 -Array traversal-Array subscript / normal for traversal array / for...range traversal
 -Sorting of arrays-Bubble sorting/selection sorting/insertion sorting. . .
 -Multi-dimensional array-Two-dimensional array / use of two-dimensional array / traversal of two-dimensional array
 -Array data type-Array is value type data
-#### Day07-[Slice](./Day01-15(Basics of Go Language)/day07_Slice Use.md)
+#### Day07-[Slice](./Day01-15(Go Language Fundamentals)/day07_Slice Use.md)
 -Slices-The concept of slices / The use of slices / The syntax of slices / The length and capacity of slices / Points to note about slices
 -The principle of slicing-the underlying array of the slice / create a slice on an existing array / intercept a slice
 -Slice traversal-Slice subscript / normal for traversal slice / for...range traversal
 -Slice related functions-make() / append() / copy() / len() / cap()
 -Slice copy-Deep copy / Shallow copy
 -Slice data type-Slice is reference type data
-#### Day08-[Map](./Day01-15(Go language foundation)/day08_Map usage.md)
+#### Day08-[Map](./Day01-15(Go Language Fundamentals)/day08_Map usage.md)
 -Map-Concept of Map / Use of Map / Syntax of Map / Length and Capacity of Map / Points to Note for Map
 -Map storage characteristics-key-value / Map key type / Key-value pairs in Map are out of order
 -Creation of Map-Empty Map /
 -Map operation-add data / modify data / get data / delete data
 -Map data type-Map is reference type data
-#### Day09-[string](./Day01-15(Go language basics)/day09_string.md)
+#### Day09-[string](./Day01-15(Go Language Fundamentals)/day09_string.md)
 -Use of strings-Calculating length / subscript operation / slicing / common methods
 -strings package
 -strconv package
-#### Day10-[Function](./Day01-15(Go language foundation)/day10_function.md)
+#### Day10-[Function](./Day01-15(Go Language Fundamentals)/day10_function.md)
 -Function-Concept of function / Role of function
 -Function syntax-Define function / call function
 -Function parameters-Use of parameters / variable parameters / parameter transfer
@@ -112,34 +112,34 @@ Representative projects: Ethereum, hyperledger, etc.
 -Recursive function-Recursive algorithm / recursive function implementation
 -Advanced functions-The essence of functions / anonymous functions / higher-order functions / callback functions / closure structure
 -Defer function-Defer function / delay parameter / delay of stack / defer note
-#### Day11-[Package Management](./Day01-15(Go language foundation)/day11_包管理.md)
+#### Day11-[Package Management](./Day01-15(Go Language Fundamentals)/day11_包管理.md)
 -Package management-package concept / package definition / package import / main package
 -Package keyword-package / import
 -Package import logic-init() function / multiple init() functions in the same package / multiple init() functions in different packages
 -Manage external packages
-#### Day12-[Pointer](./Day01-15(Basics of Go Language)/day12_Pointer.md)
+#### Day12-[Pointer](./Day01-15(Go Language Fundamentals)/day12_Pointer.md)
 -Pointer-The concept of pointer / Get the address of a variable / Operate the pointer to change the variable
 -Pointer syntax-define pointer / * / get pointer value / & / pointer pointer
 -Points to note about pointers-Pointer type / pointer address / null pointer
 -Pointer application-Pointer as parameter / Pointer as function return value / Array pointer and pointer array / Pointer function and function pointer
-#### Day13-[Structure](./Day01-15(Go Language Foundation)/day13-Structure.md)
+#### Day13-[Structure](./Day01-15(Go Language Fundamentals)/day13-Structure.md)
 -Structure-Structure concept / structure definition / structure initialization / structure access / make and new
 -Anonymous fields of the structure
 -Structure Nesting-Structure Nesting / Anonymous Nesting / Promoting Fields
 -Use of structure-Structure pointer / structure as function parameter / structure as return value of function
-#### Day14-[Methods and Interfaces](./Day01-15(Go language foundation)/day14_第1节_method.md)
+#### Day14-[Methods and Interfaces](./Day01-15(Go Language Fundamentals)/day14_第1节_method.md)
 -Method-Concept of method / Use of method
 -Method syntax-method receiver / method and function
 -Methods in structure nesting-"Inheritance" of methods / "Rewriting" of methods
 -Interface-Concept of interface / Use of interface
 -Interface syntax-interface / interface type
 -Interface application-empty interface / type assertion / type keyword
-#### Day15-[Error Handling](./Day01-15(Go language basics)/day15_error handling.md)
+#### Day15-[Error Handling](./Day01-15(Go Language Fundamentals)/day15_error handling.md)
 -Wrong-Wrong concept / Wrong usage /
 -Error type-error interface / error type indication / custom error
 -Error handling-Return error function / error handling
 -Related knowledge-panic() function / recover() function / defer() function
-### Day16~20-[Go language basic advanced](./Day16-20(Go language basic advanced))
+### Day16~20-[Advanced Go Language Fundamentals](./Day16-20(Advanced Go Language Fundamentals))
 #### Day16-[I/O Operation](goon_ch.md)
 -I/O-What is the use of I/O/os package
 -File operation-Get file information / file creation
@@ -151,7 +151,7 @@ Representative projects: Ethereum, hyperledger, etc.
 #### Day19-[Reflection Mechanism](goon_ch.md)
 #### Day20-[Comprehensive Exercises](goon_ch.md)
 ### Day21~22-[Network Programming](./Day21-22(Network Programming))
-### Day23~24-[MySQL database foundation](./Day23-24(MySQL database foundation))
+### Day23~24-[MySQL DB Fundamentals](./Day23-24(MySQL DB Fundamentals))
 ### Day25-[Go Language Connect MySQL](./Day25(Go Connect MySQL))
 ### Day26~31-[Web front end](./Day26-31(Web front end))
 #### Day26-[HTML](goon_ch.md)
