@@ -65,7 +65,7 @@ fmt.Printf("%v\n", f)
 }
 ```
 operation result:
-![Run1](IMG/Run1.PNG)
+![Run1](img/yunxing1.png)
 ## Two, keyboard input
 ### 2.1 fmt package read keyboard input
 Common methods:
