@@ -88,7 +88,7 @@ fmt.Printf("x:%d,y:%f\n",x,y)
 }
 ```
 operation result:
-![Run 2](IMG/Run 2.PNG)
+![Run 2](img/yunxing2.png)
 ### 2.2 bufio package reading
 Https://golang.google.talent/pkg/part IO/
 The bufio package is all IO operation methods:
@@ -112,7 +112,7 @@ fmt.Println("Data read:", s1)
 }
 ```
 running result:
-![Run 3](IMG/Run 3.PNG)
+![Run 3](img/yunxing3.png)
 Qianfeng Go language learning group: 784190273
 Corresponding video address:
 Https://oooooo.proportion.com/video/av56018934
